@@ -1,0 +1,19 @@
+1-
+Si es nesesario por que se guardan por un largo periodo de tiempo 
+Si asi si en un futuro agregan mas productos es facil de modificar 
+2-
+No por que no se requiere guardar ningun dato en el tiempo 
+No por que no seria practico
+3-
+Si seria practico que se busque por el nombre del cliente y el valor seria la clase de asiento 
+No por que dicen que no es nesesario guardar las reservas canceladas 
+4-
+Si asi podes sacar la puntuacion de fidelidad, ya que tenes todas las compras realizadas
+Si por que no sea logico que cualquiera pudiera cambiar o modificar sus compras realizadas 
+5-
+Si para que sea mas practico y mejor que un string magico 
+No por que no queres recordar nada de las salidas de los vehiculos 
+Bonus:
+Privado: Solo el creador puede tener acceso 
+Protegido: Se le puede dar acceso a ciertas personas encargadas para modificar
+Publico: Cualquiera Puede cambiar la informacion  
